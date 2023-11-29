@@ -14,8 +14,8 @@ The Birthday Guess game is a simple game where the player has to guess the birth
 
 ## How To Run This Project
 
-- very simple just open the cpp file in codeblock or any editor. then compile it. then run it. 
-- make sure the csv file is in the same folder
+- open the cpp file in codeblock or any editor. then compile it. then run it. 
+- make sure the csv/txt file is in the same folder
 
 ## Student Info 
 - Jarif Bin Suroth
